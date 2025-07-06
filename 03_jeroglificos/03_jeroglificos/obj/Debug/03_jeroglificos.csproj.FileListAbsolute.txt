@@ -1,0 +1,9 @@
+D:\PARDELANT\DEIN\proyectos\03_jeroglificos\03_jeroglificos\bin\Debug\03_jeroglificos.exe.config
+D:\PARDELANT\DEIN\proyectos\03_jeroglificos\03_jeroglificos\bin\Debug\03_jeroglificos.exe
+D:\PARDELANT\DEIN\proyectos\03_jeroglificos\03_jeroglificos\bin\Debug\03_jeroglificos.pdb
+D:\PARDELANT\DEIN\proyectos\03_jeroglificos\03_jeroglificos\obj\Debug\03_jeroglificos.csprojResolveAssemblyReference.cache
+D:\PARDELANT\DEIN\proyectos\03_jeroglificos\03_jeroglificos\obj\Debug\_03_jeroglificos.Form1.resources
+D:\PARDELANT\DEIN\proyectos\03_jeroglificos\03_jeroglificos\obj\Debug\_03_jeroglificos.Properties.Resources.resources
+D:\PARDELANT\DEIN\proyectos\03_jeroglificos\03_jeroglificos\obj\Debug\03_jeroglificos.csproj.GenerateResource.Cache
+D:\PARDELANT\DEIN\proyectos\03_jeroglificos\03_jeroglificos\obj\Debug\03_jeroglificos.exe
+D:\PARDELANT\DEIN\proyectos\03_jeroglificos\03_jeroglificos\obj\Debug\03_jeroglificos.pdb
