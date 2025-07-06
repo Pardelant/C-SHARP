@@ -1,0 +1,9 @@
+D:\PARDELANT\DEIN\proyectos\02_piramides\02_piramides\bin\Debug\02_piramides.exe.config
+D:\PARDELANT\DEIN\proyectos\02_piramides\02_piramides\bin\Debug\02_piramides.exe
+D:\PARDELANT\DEIN\proyectos\02_piramides\02_piramides\bin\Debug\02_piramides.pdb
+D:\PARDELANT\DEIN\proyectos\02_piramides\02_piramides\obj\Debug\02_piramides.csprojResolveAssemblyReference.cache
+D:\PARDELANT\DEIN\proyectos\02_piramides\02_piramides\obj\Debug\_02_piramides.Form1.resources
+D:\PARDELANT\DEIN\proyectos\02_piramides\02_piramides\obj\Debug\_02_piramides.Properties.Resources.resources
+D:\PARDELANT\DEIN\proyectos\02_piramides\02_piramides\obj\Debug\02_piramides.csproj.GenerateResource.Cache
+D:\PARDELANT\DEIN\proyectos\02_piramides\02_piramides\obj\Debug\02_piramides.exe
+D:\PARDELANT\DEIN\proyectos\02_piramides\02_piramides\obj\Debug\02_piramides.pdb
