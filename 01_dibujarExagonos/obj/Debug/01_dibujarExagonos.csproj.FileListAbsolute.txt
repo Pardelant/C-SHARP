@@ -1,0 +1,9 @@
+D:\PARDELANT\DEIN\proyectos\01_dibujarExagonos\01_dibujarExagonos\bin\Debug\01_dibujarExagonos.exe.config
+D:\PARDELANT\DEIN\proyectos\01_dibujarExagonos\01_dibujarExagonos\bin\Debug\01_dibujarExagonos.exe
+D:\PARDELANT\DEIN\proyectos\01_dibujarExagonos\01_dibujarExagonos\bin\Debug\01_dibujarExagonos.pdb
+D:\PARDELANT\DEIN\proyectos\01_dibujarExagonos\01_dibujarExagonos\obj\Debug\01_dibujarExagonos.csprojResolveAssemblyReference.cache
+D:\PARDELANT\DEIN\proyectos\01_dibujarExagonos\01_dibujarExagonos\obj\Debug\_01_dibujarExagonos.Form1.resources
+D:\PARDELANT\DEIN\proyectos\01_dibujarExagonos\01_dibujarExagonos\obj\Debug\_01_dibujarExagonos.Properties.Resources.resources
+D:\PARDELANT\DEIN\proyectos\01_dibujarExagonos\01_dibujarExagonos\obj\Debug\01_dibujarExagonos.csproj.GenerateResource.Cache
+D:\PARDELANT\DEIN\proyectos\01_dibujarExagonos\01_dibujarExagonos\obj\Debug\01_dibujarExagonos.exe
+D:\PARDELANT\DEIN\proyectos\01_dibujarExagonos\01_dibujarExagonos\obj\Debug\01_dibujarExagonos.pdb
