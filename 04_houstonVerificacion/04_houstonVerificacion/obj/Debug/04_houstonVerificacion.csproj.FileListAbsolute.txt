@@ -1,0 +1,9 @@
+D:\PARDELANT\DEIN\proyectos\04_houstonVerificacion\04_houstonVerificacion\bin\Debug\04_houstonVerificacion.exe.config
+D:\PARDELANT\DEIN\proyectos\04_houstonVerificacion\04_houstonVerificacion\bin\Debug\04_houstonVerificacion.exe
+D:\PARDELANT\DEIN\proyectos\04_houstonVerificacion\04_houstonVerificacion\bin\Debug\04_houstonVerificacion.pdb
+D:\PARDELANT\DEIN\proyectos\04_houstonVerificacion\04_houstonVerificacion\obj\Debug\04_houstonVerificacion.csprojResolveAssemblyReference.cache
+D:\PARDELANT\DEIN\proyectos\04_houstonVerificacion\04_houstonVerificacion\obj\Debug\_04_houstonVerificacion.Form1.resources
+D:\PARDELANT\DEIN\proyectos\04_houstonVerificacion\04_houstonVerificacion\obj\Debug\_04_houstonVerificacion.Properties.Resources.resources
+D:\PARDELANT\DEIN\proyectos\04_houstonVerificacion\04_houstonVerificacion\obj\Debug\04_houstonVerificacion.csproj.GenerateResource.Cache
+D:\PARDELANT\DEIN\proyectos\04_houstonVerificacion\04_houstonVerificacion\obj\Debug\04_houstonVerificacion.exe
+D:\PARDELANT\DEIN\proyectos\04_houstonVerificacion\04_houstonVerificacion\obj\Debug\04_houstonVerificacion.pdb
